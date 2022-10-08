@@ -1,5 +1,5 @@
 baseURL = 'https://naviol.github.io'
 languageCode = 'en-us'
-title = 'Navi的踩坑日誌'
-theme = "PaperMod"
+title = "Navi's Blog 💩"
+theme = "hugo-ink"
 googleAnalytics = 'G-BLK69FEWTR'
