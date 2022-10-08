@@ -1,5 +1,5 @@
 baseURL = 'https://naviol.github.io'
 languageCode = 'en-us'
 title = "Navi's Blog 💩"
-theme = "hugo-ink"
+theme = "Ink"
 googleAnalytics = 'G-BLK69FEWTR'

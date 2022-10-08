@@ -4,3 +4,6 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/Ink"]
+	path = themes/Ink
+	url = https://github.com/knadh/hugo-ink.git
